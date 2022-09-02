@@ -4,7 +4,7 @@
 
 1. Open Topper.
 2. Setup the hotkeys however you prefer.
-3. Go to the desired application you wish to make mop most.
+3. Go to the desired application you wish to make top most.
 4. Press the "Make Top Most" hotkey.
 5. To return it to normal just press the "Unmake Top Most" hotkey with the previously made top most application active.
 
